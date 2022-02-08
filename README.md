@@ -1,8 +1,23 @@
-# Red Onion Restaurant Web App
-It is a single page application made with ReactJS, Tailwind CSS 
+# Red Onion Restaurant 
 
-Live site [https://hot-red-onions.web.app/]
+A single page restaurant app where people are able to select food in their cart and checkout the cart with their information.
 
+[Live Website](https://hot-red-onions.web.app/)
+
+### Features
+* Order food from the menu
+* Sign Up to place order
+
+
+### Front-end Technology  
+* React.js
+* TailwindCSS
+* CSS3
+
+### Back-end Technology 
+* Node.js
+* Express.js
+* MongoDB
 
 ![1](https://user-images.githubusercontent.com/45326654/147241533-9ead2cb6-670a-4614-821a-383a6e4a1a2d.jpg)
 ![2](https://user-images.githubusercontent.com/45326654/147241540-692d0e89-ccef-4e06-964f-087f0b7b72c0.jpg)
