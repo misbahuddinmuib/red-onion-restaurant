@@ -1,7 +1,7 @@
 # Red Onion Restaurant Web App
 It is a single page application made with ReactJS, Tailwind CSS 
 
-Live site - https://hot-red-onions.web.app/
+Live site [https://hot-red-onions.web.app/]
 
 
 ![1](https://user-images.githubusercontent.com/45326654/147241533-9ead2cb6-670a-4614-821a-383a6e4a1a2d.jpg)
